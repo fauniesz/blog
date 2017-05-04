@@ -2,12 +2,21 @@ h1 {
   font-size: 52px;
   color: #e814e1;
   font-weight: bolder;
+  margin-top: 6px;
+  margin-bottom: 14px;
+  background-color: green;
 }
 
 .article {
 border-top-style: solid;
   font-style: italic;
   color: green;
+  border: 5px solid blue;
+  padding: 8px;
+  background-color: beige;
+  margin-top: 6px;
+  margin-bottom: 13px;
+  background-color: blue;
 }
 
 .about {
@@ -15,4 +24,8 @@ border-top-style: solid;
   font-stretch: extra-condensed;
   color:gray;
   font-size: 22px;
+  background-color: beige;
+  margin-top: 6px;
+  margin-bottom: 13px;
+  background-color: beige;
 }
